@@ -1,3 +1,3 @@
 # this-is-my-first-repository
 <br>
-Author - Nimanshu Patel 
+Author - Nimanshu Patel(nimu) 
